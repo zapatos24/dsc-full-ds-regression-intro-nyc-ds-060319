@@ -32,7 +32,7 @@ Once we have the cleaned data in, we'll then do some EDA (Exploratory Data Analy
 
 ## Modeling our Data
 
-Finally, we're going to go through the modeling process - identifying the various steps involved in building a model, identifying target and predictor variables, and iterating through the modeling process. We're also going to introduce the concept of a "holdout validation" and see how we can better test our models by holding out a subset of our data from the train/test/k-fold cross validation data set using to train and test the model.
+Finally, we're going to go through the modeling process - identifying the various steps involved in building a model, identifying target and predictor variables, and iterating through the modeling process. We're also going to introduce the concept of a "holdout validation" and see how we can better test our models by holding out a subset of our data from the training data set using to train the model.
 
 
 ## Summary
