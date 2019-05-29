@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section, you'll get a chance to synthesize your skills and conduct a full data science process. To start, you'll extract appropriate data from a sql database. From there, you'll continue exploring and cleaning your data, modelling the data and conducting statistical analyses!
+In this section, you'll get a chance to synthesize your skills and conduct a full data science process. To start, you'll extract appropriate data from a SQL database. From there, you'll continue exploring and cleaning your data, modeling the data and conducting statistical analyses!
 
 ## Objectives
 You will be able to:
@@ -36,7 +36,7 @@ From there, you'll practice cleaning data:
 
 ## Exploring our Data
 
-Once you've the cleaned data, you'll then do some further EDA (Exploratory Data Analysis) to check out the distributions of the various columns, examine the descriptive statistucs for the data set and to create some initial visualizations to better to understand the data set.
+Once you've the cleaned data, you'll then do some further EDA (Exploratory Data Analysis) to check out the distributions of the various columns, examine the descriptive statistics for the data set and to create some initial visualizations to better to understand the data set.
 
 ## Modeling our Data
 
@@ -45,4 +45,3 @@ Finally, you'll create a definitive model. This will include fitting an initial 
 ## Summary
 
 In this section, you'll conduct end-to-end review of the data science process!
-
