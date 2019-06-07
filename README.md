@@ -12,10 +12,10 @@ You will be able to:
 
 ## Data Science Processes
 
-You'll take at a three general framework's for conducting data science processes using the skills you've learned thus far:  
+You'll take at a three general frameworks for conducting data science processes using the skills you've learned thus far:  
 * **CR**oss-**I**ndustry **S**tandard **P**rocess for **D**ata **M**ining - **CRISP-DM**
 * **K**nowledge **D**iscovery in **D**atabases - **KDD** 
-* **O**btain **S**rcub **E**xplore **M**odel i**N**terpret - **OSEMN**
+* **O**btain **S**crub **E**xplore **M**odel i**N**terpret - **OSEMN**
 
 > Note: OSEMN is pronounced "OH-sum" and rhymes with "possum"
 
